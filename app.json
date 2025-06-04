@@ -1,5 +1,5 @@
 {
-  "name": "Levanter",
+  "name": "LeaRn WitH ZaiD",
   "description": "",
   "keywords": ["noedjs"],
   "success_url": "/",
@@ -8,7 +8,7 @@
     "ALWAYS_ONLINE": {
       "description": "show bot number last seen as online",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "LOG_MSG": {
       "description": "Show whatsapp msgs in log",
@@ -23,7 +23,7 @@
     "PREFIX": {
       "description": "prefix, check for more",
       "required": false,
-      "value": "."
+      "value": "#"
     },
     "SESSION_ID": {
       "description": "session id",
@@ -96,17 +96,17 @@
     "REJECT_CALL": {
       "description": "auto reject call, if set as true",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_STATUS_VIEW": {
       "description": "view others status",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "SEND_READ": {
       "description": "send blue tick",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AJOIN": {
       "description": "Accept Group join request(Group privacy)",
