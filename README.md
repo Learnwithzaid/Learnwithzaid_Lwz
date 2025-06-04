@@ -1,4 +1,4 @@
-# WhatsApp MD User Bot
+# LeaRn WitH ZaiD A Whatsapp Bot
 
 A powerful and feature-rich WhatsApp bot supporting multiple sessions, designed for seamless automation and enhanced user experience.
 
@@ -128,10 +128,10 @@ bash <(curl -fsSL http://bit.ly/43JqREw)
 
 ### Credits & Acknowledgments
 
-A special thanks to:
+A special thanks to: Zaid Ur Rehman
 
-- **[Yusuf Usta](https://github.com/Quiec)** – Creator of [WhatsAsena](https://github.com/yusufusta/WhatsAsena).  
-- **[@adiwajshing](https://github.com/adiwajshing)** – Developer of [Baileys](https://github.com/adiwajshing/Baileys).
+- **[All Social Media Accounts](https://linktr.ee/learnwithzaid)** – Creator of [WhatsAsena](https://github.com/yusufusta/WhatsAsena).  
+- **[Our Whatsapp Channel](https://whatsapp.com/channel/0029VbASNQV4IBhHimmL6b3X)** – Developer of [Baileys](https://github.com/adiwajshing/Baileys).
 
 ---
 
